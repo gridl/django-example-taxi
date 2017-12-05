@@ -1,0 +1,4 @@
+asgi-redis==1.4.3
+channels==1.1.8
+Django==2.0
+djangorestframework==3.7.3
